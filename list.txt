@@ -1,2 +1,2 @@
-file 'SoundFiles/test.wav'
-file 'SoundFiles/test2.wav'
+file 'SoundFiles/210112_0015.WMA'
+file 'SoundFiles/210112_0016.WMA'
